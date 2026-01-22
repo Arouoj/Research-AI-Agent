@@ -3,7 +3,7 @@
 ## Overview
 
 A multi-agent AI system for automated literature review and research paper discovery. This system uses CrewAI to coordinate specialized agents that search for, analyze, and synthesize academic papers on a given topic, generating comprehensive literature review reports.
-
+All tools in this Projects are open-source and works on colab free CPU
 ## Features
 
 - **Intelligent Search Query Generation**: Creates targeted search queries based on research topics
